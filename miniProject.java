@@ -25,6 +25,7 @@ public class miniProject {
             if(remainingAttempt==0){
                 System.out.println("Sorry, you have no more attempts left. The number was: "+guessNumber);
                 
+            
             }
         }
     }
