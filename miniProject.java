@@ -6,7 +6,7 @@ public class miniProject {
         System.out.print("Enter your Number from 1-10: ");
         int guessNumber = (int)(Math.random()*10);
         
-        int userGuess = input.nextInt();
+        int userGuess = input.nextInt();   
         int attempt=0;
         int remainingAttempt=10;
         for (int i=0; i<remainingAttempt; i++){
